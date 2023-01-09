@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jigisha</h1>
-<h3 align="center">A Machine Learning Engineer from UK</h3>
+<h3 align="center">A Data Scientist and Machine Learning Engineer from UK</h3>
 
 - 🔭 I’m currently working on **Rating Bot**
 
