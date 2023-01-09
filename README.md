@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jigisha</h1>
 <h3 align="center">A Machine Learning Engineer from UK</h3>
 
-- 🔭 I’m currently working on **Django**
+- 🔭 I’m currently working on **Rating Bot**
 
-- 🌱 I’m currently learning **Django, NLP, BigData, Large Scale Programming**
+- 🌱 I’m currently learning **NLP, Django, BigData, Large Scale Programming, Microservices**
 
-- 💬 Ask me about **Python, Machine Learning, Deep Learning**
+- 💬 Ask me about **Python, Time Series Analysis, Machine Learning, Deep Learning**
 
 - 📫 How to reach me **jigisha.p16@gmail.com**
 
