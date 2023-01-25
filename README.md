@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Rating Bot**
 
-- 🌱 I’m currently learning **NLP, OpenCV, Django, BigData, Large Scale Programming, Microservices**
+- 🌱 I’m currently learning **NLP, Computer Vision, Big Data Engineering, Large Scale Programming**
 
 - 💬 Ask me about **Python, Time Series Analysis, Machine Learning, Deep Learning**
 
