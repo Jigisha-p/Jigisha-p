@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **NLP, Computer Vision,**
 
-- 🌱 I’m currently learning ** Big Data Engineering, Large Scale Programming**
+- 🌱 I’m currently learning **Big Data Engineering, Large Scale Programming**
 
 - 💬 Ask me about **Python, Time Series Analysis, Machine Learning, Deep Learning**
 
