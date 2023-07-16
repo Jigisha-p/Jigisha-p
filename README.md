@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jigisha</h1>
 <h3 align="center">A Data Scientist and Machine Learning Engineer from UK</h3>
 
-- 🔭 I’m currently working on ** AWS SageMaker **
+- 🔭 I’m currently working on **AWS SageMaker **
 
-- 🌱 I’m currently learning ** Big Data Engineering, Large Scale Programming**
+- 🌱 I’m currently learning **Big Data Engineering, Large Scale Programming**
 
-- 💬 Ask me about ** Python, Time Series Analysis, Machine Learning, Deep Learning, NLP, Computer Vision**
+- 💬 Ask me about **Python, Time Series Analysis, Machine Learning, Deep Learning, NLP, Computer Vision**
 
 - 📫 How to reach me **jigisha.p16@gmail.com**
 
