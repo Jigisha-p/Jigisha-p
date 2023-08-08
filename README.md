@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Transfer Learning, Distributed Computing**
 
-- 💬 Ask me about **Python, Time Series Analysis, Machine Learning, Deep Learning, NLP, Computer Vision**
+- 💬 Ask me about **Python, Time Series Analysis, Machine Learning, Recommendation System, Deep Learning, NLP, Computer Vision**
 
 - 📫 How to reach me **jigisha.p16@gmail.com**
 
