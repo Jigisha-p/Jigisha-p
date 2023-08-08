@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jigisha</h1>
 <h3 align="center">A Data Scientist and Machine Learning Engineer from UK</h3>
 
-- 🔭 I’m currently working on **AWS SageMaker**
+- 🔭 I’m currently working on **Lung Diseases Prediction**
 
-- 🌱 I’m currently learning **Big Data Engineering, Large Scale Programming**
+- 🌱 I’m currently learning **Transfer Learning, Distributed Computing**
 
 - 💬 Ask me about **Python, Time Series Analysis, Machine Learning, Deep Learning, NLP, Computer Vision**
 
