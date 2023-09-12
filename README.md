@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jigisha</h1>
 <h3 align="center">A Data Scientist and Machine Learning Engineer from UK</h3>
 
-- 🔭 I’m currently working on **Emotion Detection**
+- 🔭 I’m currently working with **Hugging Face Transformers**
 
 - 🌱 I’m currently learning **Transfer Learning, Distributed Computing**
 
