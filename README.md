@@ -43,7 +43,7 @@ AI Engineer <br><br><a href="https://www.python.org/" target="_blank" rel="noref
 <br><br>
 <h3 align="left">🎯 My Vision: </h3>
 <p>I see AI as a force for positive change, and I'm excited to contribute to its evolution. My vision is to continue pushing the boundaries of AI, harnessing its potential to create intelligent, impactful solutions that address the challenges of our time. <br><br>
-<p>🤝 I'm always eager to connect with fellow AI enthusiasts, professionals, and potential collaborators. Whether you want to discuss AI trends, explore partnership opportunities, or simply connect over shared interests, feel free to reach out. Let's embark on this AI journey together!
+
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [jigisha.p16@gmail.com](mailto:jigisha.p16@gmail.com)
