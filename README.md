@@ -24,29 +24,10 @@ AI Engineer <br><br><a href="https://www.python.org/" target="_blank" rel="noref
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 -----------
 
-<p>I'm passionate about the intersection of artificial intelligence and technology, and I thrive on leveraging cutting-edge AI techniques to solve complex real-world problems. As an AI Engineer, I have had the privilege of working on diverse projects that have sharpened my skills and deepened my commitment to the field. 
-</p>
-<p>My journey in AI engineering has been an exhilarating one, marked by continuous learning, innovation, and collaboration. Whether it's developing advanced machine learning models, implementing natural language processing algorithms, or harnessing computer vision for image analysis, I relish the opportunity to explore new horizons in AI. </p>
-<br>
-<h3 align="left">👩🏻‍💻 What sets Me Apart: </h3>
-<h4>✅ Technical Skills : </h4>
-  • Python, C, C++ <br>
-  • Machine Learning , Deep Learning , Hugging Face Transformers <br>
-  • Natural Language Processing (text classification, sentiment analysis, Topic Modelling and machine translation) <br>
-  • Computer Vision (image classification, object detection, and image segmentation) <br>
-  • Cloud Computing (AWS and GCP) <br>
-  • Software Engineering (Agile development, unit testing, and CI/CD) <br>
-  • Data Science (data cleaning, feature engineering, model development, optimization, evaluation and deployment) <br>
-  • Generative AI and Large Language Models<br><br>
-<p>✅ I'm committed to ethical AI practices, prioritizing fairness, transparency, and privacy in every project. I believe responsible AI is crucial for the advancement of society. <br>
-<p>✅ I thrive in collaborative environments and have a track record of effectively working in cross-functional teams. I enjoy breaking down complex AI concepts to make them accessible to non-technical stakeholders. 
-<br><br>
-<h3 align="left">🎯 My Vision: </h3>
-<p>I see AI as a force for positive change, and I'm excited to contribute to its evolution. My vision is to continue pushing the boundaries of AI, harnessing its potential to create intelligent, impactful solutions that address the challenges of our time. <br><br>
+<p>AWS Certified Machine Learning Specialist with a decade of experience in advanced algorithms. Excelling in Python, SQL, Machine Learning, Deep Learning, NLP and Computer Vision. Proficient in Data acquisition, Data manipulation, Data Analysis, Data Visualization, Model Development and Cloud Deployment.
 
-
-* 🌍  I'm based in London
-* ✉️  You can contact me at [jigisha.p16@gmail.com](mailto:jigisha.p16@gmail.com)
+* 🌍  London, United Kingdom
+* ✉️  [jigisha.p16@gmail.com](mailto:jigisha.p16@gmail.com)
 <h4 align="left"> Socials </h4>
 <p align="left"> 
 <a href="https://www.github.com/Jigisha-p" target="_blank" rel="noreferrer"> <picture> 
