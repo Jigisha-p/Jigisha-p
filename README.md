@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jigisha Pawar
 =====================================================================================================================================
 
-AI Engineer <br><br><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="icons/python-colored.svg" width="36" height="36" alt="Python" /></a>
+Data Driven AI Practitioner <br><br><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="icons/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="icons/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
