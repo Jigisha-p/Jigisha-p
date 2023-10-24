@@ -40,39 +40,21 @@ Data Driven AI Practitioner <br><br><a href="https://www.python.org/" target="_b
 <img src="icons/social/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### My Skillset:
-- <b>Machine Learning:</b> Understanding of machine learning algorithms, model selection, and optimization.
-- <b>Deep Learning:</b> Proficiency in neural networks, convolutional neural networks (CNNs), recurrent neural networks (RNNs), and architectures like LSTM and GRU.
-- <b>Data Science:</b> Knowledge of data preprocessing, feature engineering, and data analysis techniques.
-- <b>Computer Vision:</b> Ability to work with image and video data for tasks like object recognition, image segmentation, and facial recognition.
-- <b>Reinforcement Learning:</b> Understanding of RL algorithms for decision-making in dynamic environments.
-- <b>Natural Language Processing:</b> Familiarity with techniques for text analysis, sentiment analysis, and language modeling.
-- <b>Speech Recognition:</b> Expertise in converting spoken language into written text.
-- <b>AI Frameworks:</b> Proficiency with libraries and frameworks such as TensorFlow, PyTorch, and scikit-learn.
-- <b>Data Mining:</b> Skill in collecting and extracting valuable insights from large datasets.
-- <b>AI Ethics:</b> Knowledge of ethical considerations in AI development and deployment.
-- <b>AI Deployment:</b> Experience in deploying AI models in real-world applications.
-- <b>Optimization Algorithms:</b> Understanding of optimization techniques like gradient descent.
-- <b>Bayesian Networks:</b> Knowledge of probabilistic graphical models for uncertainty representation.
-- <b>Time Series Analysis:</b> Ability to analyze and predict time-dependent data.
-- <b>Reinforcement Learning Frameworks:</b> Experience with RL libraries like OpenAI Gym.
+- Machine Learning
+- Deep Learning
+- Data Science
+- Time Series Analysis
+- Speech Recognition
+- Recommendation Systems
+- NLP
+- Computer Vision
+- Git, Github, Gitlab
+- SQL, NoSQL
+- Amazon Sagemaker, AWS, GCP
 
-#### NLP Skills:
+### Libraries/Frameworks: 
+Numpy, Pandas, Matplotlib, Seaborn, StatsModels, scikit-learn, TensorFlow, PyTorch, NLTK, spaCy, Gensim, Hugging Face Transformers, OpenCV, YOLO, SpeechRecognition, Flask
 
-- <b>Text Preprocessing:</b> Expertise in cleaning and preparing text data for analysis.
-- <b>Tokenization:</b> Knowledge of breaking text into words or phrases for analysis.
-- <b>Text Classification:</b> Ability to categorize text into different classes or categories.
-- <b>Named Entity Recognition (NER):</b> Skill in identifying entities (e.g., names, locations) in text.
-- <b>Sentiment Analysis:</b> Proficiency in determining the sentiment or emotion expressed in text.
-- <b>Language Modeling:</b> Understanding of creating language models using techniques like BERT and GPT.
-- <b>Text Generation:</b> Ability to generate human-like text using models like GPT-3.
-- <b>Topic Modeling:</b> Knowledge of techniques like Latent Dirichlet Allocation (LDA) for discovering topics in text data.
-- <b>Word Embeddings:</b> Familiarity with word vectors and representations like Word2Vec and GloVe.
-- <b>Part-of-Speech Tagging:</b> Skill in labeling words in text with their grammatical roles.
-- <b>Sequence-to-Sequence Models:</b> Proficiency in models for tasks like machine translation and summarization.
-- <b>Language Understanding:</b> Ability to extract meaning and intent from user queries.
-- <b>Text Mining:</b> Experience in extracting valuable information from unstructured text.
-- <b>Multilingual NLP:</b> Knowledge of handling text in multiple languages.
-- <b>NLP Libraries:</b> Familiarity with NLP libraries like NLTK, spaCy, Gensim and Hugging Face Transformers.
 
 
 
