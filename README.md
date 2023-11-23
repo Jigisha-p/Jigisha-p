@@ -1,7 +1,45 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jigisha Pawar
 =====================================================================================================================================
 
-Data Driven AI Practitioner <br><br><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="icons/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<H2>Data Driven AI Professional</H2> 
+
+
+* 🌍  London, United Kingdom
+* ✉️  [jigisha.p16@gmail.com](mailto:jigisha.p16@gmail.com)
+<h4 align="left"> Socials </h4>
+<p align="left"> 
+<a href="https://www.github.com/Jigisha-p" target="_blank" rel="noreferrer"> <picture> 
+<source media="(prefers-color-scheme: dark)" srcset="icons/social/github-dark.svg" /> 
+<source media="(prefers-color-scheme: light)" srcset="icons/social/github.svg" /> 
+<img src="icons/socials/github.svg" width="32" height="32" /> </picture> </a>
+<a href="https://www.linkedin.com/in/jigishap16" target="_blank" rel="noreferrer"> <picture> 
+<source media="(prefers-color-scheme: dark)" srcset="icons/social/linkedin-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="icons/social/linkedin.svg" /> 
+<img src="icons/social/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<br>
+
+👋 I'm an experienced AI professional with a robust background in various aspects of artificial intelligence, including data analysis, language and image processing. Proficient in key technologies and cloud services, dedicated to ethical AI, and excited to collaborate on meaningful projects.
+
+🧠 **Skills:** Data Analytics, Data Science, Machine Learning, Deep Learning, Computer Vision, NLP , Speech Recognition, Time Series Analysis, Recommendations Systems, SQL/NoSQL.
+
+🌐 Proficient in Git, AWS, Azure, GCP, Amazon Sagemaker.
+
+🔧 **Libraries/Frameworks:** NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, TensorFlow, PyTorch, NLTK, spaCy, Gensim, Hugging Face Transformers, OpenCV, YOLO, SpeechRecognition, Flask.
+
+👣 **My Digital Footprint** :
+
+ [*Project Portfolio*](https://www.datascienceportfol.io/JigishaP) 💼
+
+ [*Technical Blogs*](https://medium.com/@jigisha.p16) ✍️
+
+[*Github*](https://github.com/Jigisha-p) 💻 ***[](https://github.com/Jigisha-p)***
+
+<br><br>
+🌍 Let's shape AI's future!
+
+#AI #MachineLearning #DataScience #ArtificialIntelligence #EthicalAI #Innovation
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="icons/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="icons/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
@@ -22,39 +60,4 @@ Data Driven AI Practitioner <br><br><a href="https://www.python.org/" target="_b
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="icons/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="icons/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
------------
-
-<p>AWS Certified Machine Learning Specialist with a decade of experience in advanced algorithms. Excelling in Python, SQL, Machine Learning, Deep Learning, NLP and Computer Vision. Proficient in Data acquisition, Data manipulation, Data Analysis, Data Visualization, Model Development and Cloud Deployment.
-
-* 🌍  London, United Kingdom
-* ✉️  [jigisha.p16@gmail.com](mailto:jigisha.p16@gmail.com)
-<h4 align="left"> Socials </h4>
-<p align="left"> 
-<a href="https://www.github.com/Jigisha-p" target="_blank" rel="noreferrer"> <picture> 
-<source media="(prefers-color-scheme: dark)" srcset="icons/social/github-dark.svg" /> 
-<source media="(prefers-color-scheme: light)" srcset="icons/social/github.svg" /> 
-<img src="icons/socials/github.svg" width="32" height="32" /> </picture> </a>
-<a href="https://www.linkedin.com/in/jigishap16" target="_blank" rel="noreferrer"> <picture> 
-<source media="(prefers-color-scheme: dark)" srcset="icons/social/linkedin-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="icons/social/linkedin.svg" /> 
-<img src="icons/social/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### My Skillset:
-- Machine Learning
-- Deep Learning
-- Data Science
-- Time Series Analysis
-- Speech Recognition
-- Recommendation Systems
-- NLP
-- Computer Vision
-- Git, Github, Gitlab
-- SQL, NoSQL
-- Amazon Sagemaker, AWS, GCP
-
-### Libraries/Frameworks: 
-Numpy, Pandas, Matplotlib, Seaborn, StatsModels, scikit-learn, TensorFlow, PyTorch, NLTK, spaCy, Gensim, Hugging Face Transformers, OpenCV, YOLO, SpeechRecognition, Flask
-
-
-
 
