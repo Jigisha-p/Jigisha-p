@@ -18,7 +18,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img src="icons/social/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 <br>
 
-👋 I'm an experienced AI professional with a robust background in various aspects of artificial intelligence, including data analysis, language and image processing. Proficient in key technologies and cloud services, dedicated to ethical AI, and excited to collaborate on meaningful projects.
+👋 I'm a passionate AI professional with extensive expertise in artificial intelligence, spanning data analysis, language and image processing. Committed to the ethical development of AI solutions and enthusiastic about contributing to impactful projects.
+
 
 🧠 **Skills:** Data Analytics, Data Science, Machine Learning, Deep Learning, Computer Vision, NLP , Speech Recognition, Time Series Analysis, Recommendations Systems, SQL/NoSQL.
 
@@ -32,9 +33,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
  [*Technical Blogs*](https://medium.com/@jigisha.p16) ✍️
 
-[*Github*](https://github.com/Jigisha-p) 💻 ***[](https://github.com/Jigisha-p)***
 
-<br><br>
+<br>
+Ready to contribute AI expertise to innovative projects and drive advancements in the field. Open to collaboration and excited about the possibilities at the intersection of technology and artificial intelligence.
+<br>
 🌍 Let's shape AI's future!
 
 #AI #MachineLearning #DataScience #ArtificialIntelligence #EthicalAI #Innovation
