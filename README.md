@@ -18,7 +18,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img src="icons/social/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 <br>
 
-👋 I'm a passionate AI professional with extensive expertise in artificial intelligence, spanning data analysis, language and image processing. Committed to the ethical development of AI solutions and enthusiastic about contributing to impactful projects.
+👋  I'm a passionate AI Engineer and AWS Certified ML Specialist, adept at crafting data-driven solutions. Proficient in ML, NLP, and computer vision, with expertise in AWS,Azure and GCP. Recognized for optimizing processes, leading cross-functional teams, and achieving AWS ML Specialty certification. Committed to continuous learning and innovation for impactful solutions.
 
 
 🧠 **Skills:** Data Analytics, Data Science, Machine Learning, Deep Learning, Computer Vision, NLP , Speech Recognition, Time Series Analysis, Recommendations Systems, SQL/NoSQL.
